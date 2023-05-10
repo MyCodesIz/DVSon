@@ -11,7 +11,6 @@ sudo apt install python3
 sudo apt install python-pip
 sudo apt-get install youtube-dl
 cd /home/$user
-nano ~/bash_aliases
 echo "###Alias" >> ~/.bash_aliases
 echo "alias aliasconf='nano ~/.bash_aliases'" >> ~/.bash_aliases
 echo "###comandos" >> ~/.bash_aliases
