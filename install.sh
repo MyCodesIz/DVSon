@@ -14,5 +14,5 @@ cd /home/$user
 echo "###Alias" >> ~/.bash_aliases
 echo "alias aliasconf='nano ~/.bash_aliases'" >> ~/.bash_aliases
 echo "###comandos" >> ~/.bash_aliases
-echo "alias dvs='python3 ~/DVS/src/main.py'" >> ~/.bash_aliases
+echo "alias dvs='python3 ~/DVSon/src/main.py'" >> ~/.bash_aliases
 source ~/.bash_aliases
